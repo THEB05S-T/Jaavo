@@ -28,8 +28,9 @@ Jaavo offers three paid options to unlock Pro features (unlimited applications, 
 - Payment will be charged to your Apple ID account at confirmation of purchase.
 - Your subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period.
 - Your account will be charged for renewal within 24 hours prior to the end of the current period at the price above.
-- You can manage and cancel your subscription by going to your Apple ID account settings on your device after purchase.
-- No cancellation of the current subscription is allowed during the active subscription period.
+- You can manage your subscription or turn off auto-renewal at any time through your Apple ID account settings on your device.
+- Turning off auto-renewal takes effect at the end of the current billing period. You will continue to have access to Pro features until then, and you will not be charged again.
+- Refunds for the current billing period must be requested through Apple — see below.
 
 ### Lifetime Purchase
 
@@ -63,6 +64,10 @@ To the fullest extent permitted by law, Jaavo and its developer are not liable f
 
 We may update these Terms from time to time. Continued use of the app after changes constitutes acceptance of the updated Terms.
 
+## Privacy
+
+For information about how Jaavo handles your data, see our [Privacy Policy](/Jaavo/privacy).
+
 ## Contact
 
-Questions about these Terms can be sent through the in-app feedback form.
+Questions about these Terms can be sent through the in-app feedback form, or by email at timmychoi7777@gmail.com.
