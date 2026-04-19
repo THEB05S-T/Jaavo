@@ -25,7 +25,7 @@ If you enable notifications, Jaavo schedules local reminders (interview dates, c
 
 ## Feedback
 
-If you choose to submit feedback through the app, your message and email (if provided) are sent to a third-party form service (Formspree) so we can read and respond. This is entirely optional and user-initiated.
+If you choose to submit feedback through the app, your message and, if provided, your email address are sent to a third-party form service (Formspree, operated by Formspree, Inc.) so we can read and respond. Formspree forwards the submission to the developer's personal email. This is entirely optional and user-initiated. If you do not submit feedback, no data is sent to Formspree.
 
 ## Analytics
 
@@ -41,13 +41,13 @@ Jaavo does not share any data with third parties, except:
 
 Jaavo is not directed to children under 13 and does not knowingly collect any personal information from them.
 
-## Data Deletion
+## Data Retention and Deletion
 
-Since all data is stored on your device, you can delete it at any time by deleting the app. For subscriptions, cancellation is handled through your Apple ID subscription settings.
+Your data is retained on your device for as long as the app is installed. You can delete individual applications or clear data within the app at any time. Deleting Jaavo from your device permanently removes all of your data — there is no cloud backup or recovery. For subscriptions, cancellation is handled through your Apple ID subscription settings.
 
 ## Contact
 
-If you have questions about this policy, you can reach us through the feedback form inside the app.
+If you have questions about this policy, you can reach us through the feedback form inside the app, or by email at timmychoi7777@gmail.com.
 
 ## Changes
 
